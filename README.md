@@ -33,10 +33,10 @@ The 4 aspects are as follows:
 
 3. View the busiest areas in the city of 'Engagement', against most time consuming participant activities.
     - Aggregate Data View
-    ![Aggregate Data View Screenshot](./experiments/Tab3-Aggregate Data View.png)
+    ![Aggregate Data View](./experiments/Tab3-Aggregate Data View.png)
     
     - Individual Data View
-    ![Individual Data View Screenshot](./experiments/Tab3-Individual Data View.png)
+    ![Individual Data View](./experiments/Tab3-Individual Data View.png)
 
 4: Work and Joviality pattern as part of participant's daily routine
 
