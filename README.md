@@ -35,10 +35,8 @@ The 4 aspects are as follows:
 
 2. Movement trajectory of the 100 participants per Activity Log.
     ![Movement trajectory](./experiments/Movement_Trajectory.png?raw=true "Movement trajectory for 100 participants using Bokeh with graph interactions")
-    - The graphs are interactive. We can enable/diasable the legends in the Map of Engagement city. We can select the Activity Log and adjust the Timestamp and observe the Movement Trajectory of the first 100 participants accordingly.
-
     ![Movement trajectory all](./experiments/Movement_Trajectory_all.png?raw=true "Movement trajectory for all participants using Bokeh with graph interactions")
-    - The graphs are interactive. We can enable/diasable the legends in the Map of Engagement city. We can select the Activity Log and adjust the Timestamp and observe the Movement Trajectory of all participants accordingly.
+    - The graphs are interactive. We can enable/diasable the legends in the Map of Engagement city. We can select the Activity Log and adjust the Timestamp and observe the Movement Trajectory of the participants accordingly.
 
 3. View the busiest areas in the city of 'Engagement', against most time consuming participant activities.
     - Aggregate Data View
