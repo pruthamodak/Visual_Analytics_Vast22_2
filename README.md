@@ -20,13 +20,19 @@ Data: https://seafile.rlp.net/d/881af5fb3e40479fa394/
 
 ## Approach Overview
 
-Chosen Task - Challenge 2: Patterns of Life
+### Chosen Task - Challenge 2: Patterns of Life
 - Real world relatability
 - Daily patterns and differences
 - Traffic and its applications
 - Activity trajectories
 
-Four tabs were created on Bokeh, each indicating different aspect of data. While 3 of the aspects were visualised using bokeh, the other was visualized using Dash. 
+### Tech stack
+- Bokeh
+- Dash
+- Python
+- Plotly
+
+### Four tabs were created on Bokeh, each indicating different aspect of data. While 3 of the aspects were visualised using bokeh, the other was visualized using Dash. 
 
 The 4 aspects are as follows:
 1. Overview of the Engagement city.
