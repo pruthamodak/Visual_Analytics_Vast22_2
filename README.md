@@ -12,7 +12,7 @@ Winter Term 2022/23 (12 weeks)
 
 ## Topic
 
-IEEE VAST Challenge of 2022 - Challenge X TODO
+IEEE VAST Challenge of 2022
 
 Challenge: https://vast-challenge.github.io/2022/description.html
 
@@ -26,21 +26,21 @@ Four tabs were created on Bokeh, each indicating different aspect of data. While
 
 The 4 aspects are as follows:
 1. Overview of the Engagement city.
-    ![Overview of the Engagement city](./screenshots/Overview_of_engagement.png)
+    ![Overview of the Engagement city](./experiments/Overview_of_engagement.png)
 
 2. Movement trajectory of the 100 participants per Activity Log.
-    ![Movement trajectory](./screenshots/Movement_Trajectory.png)
+    ![Movement trajectory](./experiments/Movement_Trajectory.png)
 
 3. View the busiest areas in the city of 'Engagement', against most time consuming participant activities.
     - Aggregate Data View
-    ![Aggregate Data View Screenshot](./screenshots/Tab3-Aggregate Data View.png)
+    ![Aggregate Data View Screenshot](./experiments/Tab3-Aggregate Data View.png)
     
     - Individual Data View
-    ![Individual Data View Screenshot](./screenshots/Tab3-Individual Data View.png)
+    ![Individual Data View Screenshot](./experiments/Tab3-Individual Data View.png)
 
 4: Work and Joviality pattern as part of participant's daily routine
 
-![Work and Joviality pattern Screenshot](./screenshots/daily_pattern.png?raw=true "Work and Joviality pattern using Dash with graph interactions")
+![Work and Joviality pattern Screenshot](./experiments/daily_pattern.png?raw=true "Work and Joviality pattern using Dash with graph interactions")
 
 - The graph is interactive, Box selection on Fig1 updates Fig2. Age group selection on legend in Fig3 updates Fig1 and Fig2 accordingly
 
